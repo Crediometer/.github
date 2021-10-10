@@ -10,6 +10,9 @@
 
 [Olusola Solomon](https://www.linkedin.com/in/olusola-solomon-679364199/), Product Lead,
 
+Blog - https://medium.com/@crediometer
+Website - https://crediometer.com
+
 <!--
 
 **Here are some ideas to get you started:**
