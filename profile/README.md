@@ -3,6 +3,13 @@
 - Open an insured bank accounts that come with a physical card, team management, credit board and a lot more
 - Make efficient decisions in real time with cashflow analytics, programmatic payments, instant runway estimates, and more.
 
+### Co-founders of Crediometer
+[Wumi George](https://www.linkedin.com/in/adewumigeorge/), Family Lead
+
+[Bola Raji](https://www.linkedin.com/in/rasheed-raji-56952314a/), Technical Lead
+
+[Olusola Solomon](https://www.linkedin.com/in/olusola-solomon-679364199/), Product Lead,
+
 <!--
 
 **Here are some ideas to get you started:**
