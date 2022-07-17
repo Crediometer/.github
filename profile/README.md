@@ -1,14 +1,14 @@
-### Crediometer Open Source!
-- Crediometer makes bank accounts that help growing business grow faster.
-- Open an insured bank accounts that come with a physical card, team management, credit board and a lot more
+### Welcome to Crediometer Source Code!
+- Crediometer offers an online and offline payment solutions for growing businesses.
+- Using it's Credio Merchant App and Credio Reader device, with 3 clicks, payment is being received.
+- Open an insured business accounts that come with a physical card, team management, credit board and a lot more.
 - Make efficient decisions in real time with cashflow analytics, programmatic payments, instant runway estimates, and more.
 
 ### Co-founders of Crediometer
-[Wumi George](https://www.linkedin.com/in/adewumigeorge/), Family Lead
+[Adewumi George](https://www.linkedin.com/in/adewumigeorge/), C.E.O
 
-[Rasheed Raji](https://www.linkedin.com/in/rasheed-raji-56952314a/), Technical Lead
+[Rasheed Raji](https://www.linkedin.com/in/rasheed-raji-56952314a/), C.T.O
 
-[Olusola Solomon](https://www.linkedin.com/in/olusola-solomon-679364199/), Product Lead,
 
 ### Links
 Blog - https://medium.com/@crediometer
